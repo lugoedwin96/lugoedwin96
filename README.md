@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I’m a full-stack JavaScript engineer who loves building clean, practical, real-world applications — especially tools that improve daily life, faith, and personal discipline. I work primarily with React, Node.js, and PostgreSQL, and I’m focused on producing software that feels fast, reliable, and intentional.
 
 🚀 What I’m Building Right Now:
-
 OmniLife Command Center — A personal SaaS-style dashboard
 React · Node · PostgreSQL · Tailwind · JWT
 A unified control center for productivity, spiritual study, fitness, and daily tracking.
@@ -36,7 +35,6 @@ Clean, extensible, and built for long-term maintainability.
 
 
 🧠 Tech Stack & Tools:
-
 Frontend: React 18, Tailwind, Redux
 Backend: Node.js, Express, PostgreSQL, Prisma
 Mobile: React Native
